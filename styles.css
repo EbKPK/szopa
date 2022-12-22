@@ -137,27 +137,27 @@ figcaption
 	width: 100px;
 	height: 100px;
 }
-
 .nowosctxt
 {
 	display: inline-block;
 	width: 700px;
 }
-
 h2
 {
 	font-size: 30px;
 	font-weight: 400;
 	color: #1781b7;
 }
-
 .link a 
 {
 	color: #fff;
 	text-decoration: none;
 }
-
 .link a:hover
 {
 	color: #1781b7;
+}
+.mapa
+{
+	text-align: center;
 }
