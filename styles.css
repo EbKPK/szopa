@@ -30,8 +30,8 @@ nav
 .menu > li
 {
 	display: inline-block;
-	padding-left: 6px;
-	padding-right: 6px;
+	padding-left: 4px;
+	padding-right: 4px;
 	border-right: 1px #696969;
 }
 
