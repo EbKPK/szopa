@@ -150,3 +150,14 @@ h2
 	font-weight: 400;
 	color: #1781b7;
 }
+
+.link a 
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+.link a:hover
+{
+	color: #1781b7;
+}
