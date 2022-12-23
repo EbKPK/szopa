@@ -121,8 +121,9 @@ figcaption
 	background-color: #1F1F1F;
 	padding: 10px;
 	text-align: justify;
-	margin-top: 40px;
+	margin-top: 20px;
 	border-radius: 10px;
+        margin-bottom: 20px;
 }
 
 .nowoscimg
