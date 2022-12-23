@@ -158,8 +158,9 @@ h2
 {
 	color: #1781b7;
 }
-.mapa
+.copy
 {
-	text-align: center;
-	margin-top: 40px;
+	text-align: left;
+	margin-top: 10px;
+        margin-bottom; 20px;
 }
