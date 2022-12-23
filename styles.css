@@ -143,25 +143,19 @@ figcaption
 	display: inline-block;
 	width: 700px;
 }
+
 h2
 {
 	font-size: 30px;
 	font-weight: 400;
 	color: #1781b7;
 }
-.link a 
-{
-	color: #fff;
-	text-decoration: none;
-}
-.link a:hover
-{
-	color: #1781b7;
-}
+
 .copy
 {
 	text-align: right;
-	margin-top: 10px;
-        margin-bottom; 20px;
-        margin-left: 10px;
+	padding-top: 30px;
+	padding-bottom: 20px;
+        padding-right: 60px;
+	font-size: 20px;
 }
