@@ -159,3 +159,11 @@ h2
         padding-right: 60px;
 	font-size: 20px;
 }
+.tel
+{
+	text-align: right;
+	padding-top: 30px;
+	padding-bottom: 20px;
+        padding-right: 60px;
+	font-size: 10px;
+}
