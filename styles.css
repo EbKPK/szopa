@@ -138,6 +138,11 @@ figcaption
 	width: 100px;
 	height: 100px;
 }
+.nowoscimg img
+{
+	width: 320px;
+	height: 180px;
+}
 .nowosctxt
 {
 	display: inline-block;
