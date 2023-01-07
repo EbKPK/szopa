@@ -147,6 +147,7 @@ figcaption
 {
 	display: inline-block;
 	width: 900px;
+        text-decoration: none;
 }
 
 h2
