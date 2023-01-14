@@ -14,15 +14,17 @@
 {
 	background-color: white;
 	width: 100%;
-	box-shadow: 0px -6px 20px;
+	box-shadow: 0px -5px 20px;
     position: fixed;
+	z-index: 1;
+	opacity: 0.98;
 }
 .menu
 {
 	background-color: white;
 	font-size: 18px;
 	text-align: right;
-	margin-left: 500px;
+	margin-left: 100px;
 	height: 50px;
 }
 .menu > li
@@ -38,25 +40,45 @@
 	color: black;
 	text-decoration: none;
     text-align: center;
-	transition-duration: 0.2s;
+	transition-duration: 0.4s;
 	display: block;
 }
 .menu a:hover
 {
-	color: #006699;
+	color: #0066FF;
     transform: scale (1,04);
     z-index: 0;
-}
-.onas
-{
-	margin-left: auto;
-	margin-right:auto;
-	width: 1100px;
-	text-align: center;
-	padding: 0;
-	padding-top: 60px;
 }
 .fb
 {
 	padding-top: 100px;
+}
+.tlo
+{
+    background-image:url(img/tlo.jpg);
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	filter: blur(2.5px);
+	z-index: -1;
+	width: 100%;
+	opacity: 0,9;
+	padding-top: 400px;
+	left: 0;
+    right: 0;
+}
+.onas
+{
+	position: relative;
+    z-index: 0;
+	bottom: 150px;
+	width: 800px;
+	text-align: center;
+	color: #EFEFEF;
+	margin: 0 auto;
+	opacity: 0.93;
+}
+.tlor
+{
+	position: relative;
 }
