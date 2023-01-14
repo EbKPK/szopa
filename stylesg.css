@@ -1,0 +1,62 @@
+.body
+{
+	margin: 0px;
+}
+.ikona
+{
+	width: 50px;
+	height: 50px;
+	position: fixed;
+	margin-top: 2px;
+	margin-left: 2px;
+}
+.header
+{
+	background-color: white;
+	width: 100%;
+	box-shadow: 0px -6px 20px;
+    position: fixed;
+}
+.menu
+{
+	background-color: white;
+	font-size: 18px;
+	text-align: right;
+	margin-left: 500px;
+	height: 50px;
+}
+.menu > li
+{
+	display: inline-block;
+	padding-left: 6px;
+	padding-right: 6px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.menu a 
+{
+	color: black;
+	text-decoration: none;
+    text-align: center;
+	transition-duration: 0.2s;
+	display: block;
+}
+.menu a:hover
+{
+	color: #006699;
+    transform: scale (1,04);
+    z-index: 0;
+}
+.onas
+{
+	margin-left: auto;
+	margin-right:auto;
+	width: 1100px;
+	text-align: center;
+	padding: 0;
+	padding-top: 60px;
+}
+.fb
+{
+	padding-top: 100px;
+}
